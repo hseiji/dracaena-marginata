@@ -41,7 +41,7 @@ const Desc = styled.p`
 
     @media only screen and (max-width: 480px) {
         width: 100%;
-        margin-top: 55px;
+        margin-top: 80px;
         font-size: 20px;
     }    
 `;

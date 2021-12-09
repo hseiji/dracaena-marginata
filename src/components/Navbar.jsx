@@ -10,6 +10,10 @@ const Container = styled.div`
     z-index: 9999;
     width: 100%;
     background-color: white;
+
+    @media only screen and (max-width: 480px) {
+        height: 40px;
+    }    
 `
 const Wrapper = styled.div`
     padding: 10px 20px;
@@ -24,13 +28,17 @@ const Left = styled.div`
     justify-content: space-between;
 
     @media only screen and (max-width: 480px) {
-        width: 90%;
+        width: 100%;
     }
 `
 const Logo = styled.h1`
     font-weight: bold;
     text-decoration: underline green;
     cursor: pointer;
+
+    @media only screen and (max-width: 480px) {
+        font-size: 20px;
+    }    
 `
 const Menu = styled.ul`
     display: flex;
