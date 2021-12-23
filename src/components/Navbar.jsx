@@ -1,15 +1,14 @@
-import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-scroll'
+
 
 const Container = styled.div`
     height: 50px;
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 9999;
+    z-index: 999;
     width: 100%;
-    background-color: white;
 
     @media only screen and (max-width: 480px) {
         height: 40px;
@@ -56,6 +55,7 @@ const MenuItem = styled.li`
 `
 
 const Navbar = () => {
+
     return (
         <Container>
             <Wrapper>
