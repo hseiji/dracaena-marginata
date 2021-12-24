@@ -1,5 +1,7 @@
 import styled from 'styled-components'
 import { Link } from 'react-scroll'
+import { useContext } from 'react'
+import { ThemeContext } from '../context'
 
 
 const Container = styled.div`
@@ -56,8 +58,13 @@ const MenuItem = styled.li`
 
 const Navbar = () => {
 
+    const theme = useContext(ThemeContext);
+    const darkMode = theme.state.darkMode;
+
     return (
-        <Container>
+        <Container style={{
+            backgroundColor: darkMode ? "#222" : "white"
+        }}>
             <Wrapper>
                 <Left>
                     <Logo><Link to="About" smooth={true} duration={1000} style={{textDecoration:"underline green"}}>Dracaena Marginata</Link></Logo>
