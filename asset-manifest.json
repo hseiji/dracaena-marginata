@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/marginata-dracaena/static/js/main.55e30f60.chunk.js",
-    "main.js.map": "/marginata-dracaena/static/js/main.55e30f60.chunk.js.map",
-    "runtime-main.js": "/marginata-dracaena/static/js/runtime-main.75de359a.js",
-    "runtime-main.js.map": "/marginata-dracaena/static/js/runtime-main.75de359a.js.map",
-    "static/js/2.3564b68d.chunk.js": "/marginata-dracaena/static/js/2.3564b68d.chunk.js",
-    "static/js/2.3564b68d.chunk.js.map": "/marginata-dracaena/static/js/2.3564b68d.chunk.js.map",
-    "index.html": "/marginata-dracaena/index.html",
-    "static/js/2.3564b68d.chunk.js.LICENSE.txt": "/marginata-dracaena/static/js/2.3564b68d.chunk.js.LICENSE.txt",
-    "static/media/dracaena-marginata1.59a6a1af.png": "/marginata-dracaena/static/media/dracaena-marginata1.59a6a1af.png",
-    "static/media/dracaena-soil.a1f878a3.jpeg": "/marginata-dracaena/static/media/dracaena-soil.a1f878a3.jpeg",
-    "static/media/light1.ba5abcec.jpg": "/marginata-dracaena/static/media/light1.ba5abcec.jpg",
-    "static/media/moon.3bea3d39.png": "/marginata-dracaena/static/media/moon.3bea3d39.png",
-    "static/media/sun.f794832a.png": "/marginata-dracaena/static/media/sun.f794832a.png",
-    "static/media/temperature1.a4ca8486.jpg": "/marginata-dracaena/static/media/temperature1.a4ca8486.jpg",
-    "static/media/water1.44d59f2d.jpg": "/marginata-dracaena/static/media/water1.44d59f2d.jpg"
+    "main.js": "/dracaena-marginata/static/js/main.55e30f60.chunk.js",
+    "main.js.map": "/dracaena-marginata/static/js/main.55e30f60.chunk.js.map",
+    "runtime-main.js": "/dracaena-marginata/static/js/runtime-main.5a1e0431.js",
+    "runtime-main.js.map": "/dracaena-marginata/static/js/runtime-main.5a1e0431.js.map",
+    "static/js/2.be56b3da.chunk.js": "/dracaena-marginata/static/js/2.be56b3da.chunk.js",
+    "static/js/2.be56b3da.chunk.js.map": "/dracaena-marginata/static/js/2.be56b3da.chunk.js.map",
+    "index.html": "/dracaena-marginata/index.html",
+    "static/js/2.be56b3da.chunk.js.LICENSE.txt": "/dracaena-marginata/static/js/2.be56b3da.chunk.js.LICENSE.txt",
+    "static/media/dracaena-marginata1.59a6a1af.png": "/dracaena-marginata/static/media/dracaena-marginata1.59a6a1af.png",
+    "static/media/dracaena-soil.a1f878a3.jpeg": "/dracaena-marginata/static/media/dracaena-soil.a1f878a3.jpeg",
+    "static/media/light1.ba5abcec.jpg": "/dracaena-marginata/static/media/light1.ba5abcec.jpg",
+    "static/media/moon.3bea3d39.png": "/dracaena-marginata/static/media/moon.3bea3d39.png",
+    "static/media/sun.f794832a.png": "/dracaena-marginata/static/media/sun.f794832a.png",
+    "static/media/temperature1.a4ca8486.jpg": "/dracaena-marginata/static/media/temperature1.a4ca8486.jpg",
+    "static/media/water1.44d59f2d.jpg": "/dracaena-marginata/static/media/water1.44d59f2d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75de359a.js",
-    "static/js/2.3564b68d.chunk.js",
+    "static/js/runtime-main.5a1e0431.js",
+    "static/js/2.be56b3da.chunk.js",
     "static/js/main.55e30f60.chunk.js"
   ]
 }
